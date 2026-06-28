@@ -4,6 +4,7 @@
 This project aims to convert a manual 8-inch Dobsonian telescope into a fully automated Go-To and tracking telescope using ESP32. The system is designed for celestial object tracking, solar observation, and astrophotography.
 
 ✨ Features
+
 •	Automatic celestial object tracking 
 •	Dual-axis stepper motor control 
 •	GPS-based location detection 
@@ -14,6 +15,7 @@ This project aims to convert a manual 8-inch Dobsonian telescope into a fully au
 •	Future integration with JPL Horizons database 
 
 🛠 Hardware Used
+
 •	ESP32 
 •	NEMA Stepper Motors 
 •	Stepper Motor Drivers 
@@ -24,11 +26,13 @@ This project aims to convert a manual 8-inch Dobsonian telescope into a fully au
 •	8-inch Dobsonian Telescope 
 
 💻 Software
+
 •	Arduino IDE 
 •	C++ 
 •	ESP32 Framework 
 
 📂 Project Structure
+
 •	Hardware 
 •	Firmware 
 •	CAD Files 
@@ -36,6 +40,7 @@ This project aims to convert a manual 8-inch Dobsonian telescope into a fully au
 •	Images 
 
 🚀 Future Improvements
+
 •	Wi-Fi/Web Control 
 •	Mobile App 
 •	Automatic Star Alignment 
