@@ -49,11 +49,8 @@ This project aims to convert a manual 8-inch Dobsonian telescope into a fully au
 📸 Project Images
 
 <img width="550" height="413" alt="image" src="https://github.com/user-attachments/assets/44267969-3212-4e40-92dc-5bb2024d5a55" />
-
 <img width="441" height="454" alt="image" src="https://github.com/user-attachments/assets/77fb1b24-839a-48a7-8b35-c9e2b6112e89" />
-
 <img width="548" height="455" alt="image" src="https://github.com/user-attachments/assets/6f983f9b-5a46-404b-9584-74e247efe301" />
-
 <img width="479" height="469" alt="image" src="https://github.com/user-attachments/assets/758843ed-7f47-4e76-ad9b-b621c3a64fa4" />
 
 <img width="513" height="558" alt="image" src="https://github.com/user-attachments/assets/e143a92f-3f29-42b6-8c6b-f5855fb4c18b" />
